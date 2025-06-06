@@ -35,12 +35,13 @@ A streamlit based weather app that provides current conditions and a 5-day forec
       ```
 
 3. **Add your OpenWeather API Key**
-    add your actual api key at `.env` file
+    get your actual api key from `https://home.openweathermap.org/api_keys`
+    then add your actual api key at `.env` file
    ```bash
    OPENWEATHER_API_KEY=your_actual_api_key
    ```
 
-4. **Run the Streamlit App**
+5. **Run the Streamlit App**
    ```bash
    streamlit run weather_app.py
    ```
