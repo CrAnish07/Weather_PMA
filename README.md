@@ -11,9 +11,9 @@
     ```
 
 2. **Install requirements**
-  ```bash
-  pip install -r requirements.txt
-  ```
+      ```bash
+      pip install -r requirements.txt
+      ```
 
 3. **Add your OpenWeather API Key**
     add your actual api key at `.env` file
