@@ -1,6 +1,24 @@
 # Weather_PMA
 A streamlit based weather app that provides current conditions and a 5-day forecast. This app also supports persistent storage with CRUD, data exports(CSV)
 
+- Get current weather using:
+  - City or town names
+  - Zip/Postal codes
+  - Landmarks (e.g., Eiffel Tower)
+  - GPS coordinates (latitude,longitude)
+  - Or current location via IP address
+    
+- 5-Day Forecast
+
+- Database-backed CRUD system:
+  - **Create**: Save weather data with a date range
+  - **Read**: View all stored entries
+  - **Update**: Edit saved entries
+  - **Delete**: Remove entries
+
+- Export Data to:
+  - CSV
+    
 ## Setup Instructions
 
 1. **Clone the repo**
