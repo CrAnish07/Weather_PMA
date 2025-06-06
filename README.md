@@ -1,4 +1,5 @@
 # Weather_PMA
+A streamlit based weather app that provides current conditions and a 5-day forecast. This app also supports persistent storage with CRUD, data exports(CSV)
 
 ## Setup Instructions
 
