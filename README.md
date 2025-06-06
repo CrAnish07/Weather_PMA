@@ -34,9 +34,10 @@ A streamlit based weather app that provides current conditions and a 5-day forec
       pip install -r requirements.txt
       ```
 
-3. **Add your OpenWeather API Key: **
-      get your actual api key from `https://home.openweathermap.org/api_keys`
-      then add your actual api key at `.env` file
+3. **Add your OpenWeather API Key**
+   
+   get your actual api key from `https://home.openweathermap.org/api_keys`
+   then add your actual api key at `.env` file
    ```bash
    OPENWEATHER_API_KEY=your_actual_api_key
    ```
